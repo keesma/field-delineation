@@ -165,7 +165,7 @@ thunder-registration==1.0.1
 tifffile==2021.11.2
 tinycss2==1.2.1
 tornado==6.2
-tqdm==4.65.0
+tqdm==4.66.3
 traitlets==5.9.0
 typeguard==4.1.0
 typing-inspect==0.9.0
