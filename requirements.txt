@@ -170,7 +170,7 @@ traitlets==5.9.0
 typeguard==4.1.0
 typing-inspect==0.9.0
 typing_extensions==4.7.1
-urllib3==1.26.16
+urllib3==1.26.19
 utm==0.7.0
 wandb==0.15.5
 wcwidth==0.2.6
