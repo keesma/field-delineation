@@ -1,7 +1,7 @@
 absl-py==1.4.0
 aenum==3.1.15
 affine==2.4.0
-anyio==3.7.1
+anyio==4.4.0
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
