@@ -42,7 +42,7 @@ eo-learn-ml-tools==0.10.2
 eo-learn-visualization==0.10.2
 exceptiongroup==1.1.2
 fastjsonschema==2.18.0
-Fiona==1.8.21
+Fiona==1.10b2
 flatbuffers==23.5.26
 fonttools==4.38.0
 fs==2.4.16
